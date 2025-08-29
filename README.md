@@ -1,4 +1,4 @@
-# Calssification of colored path graphs with 4 vertices.
+# Classification of colored path graphs with 4 vertices.
 
 This repository contains the following files:
 
